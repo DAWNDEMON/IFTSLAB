@@ -1,0 +1,7 @@
+1) abrir terminal y entonces escribir; a continuacion:
+2) ls (localizar el archivo descargado de github LaBarranca)
+3) cd LaBarranca
+4) source flasky/bin/activate
+5) python app.py runserver
+6) entrar en 127.0.0.1:5000 para verificar que el programa funcione
+7) ir a "Registrarse" para añadir nuevos usuarios
